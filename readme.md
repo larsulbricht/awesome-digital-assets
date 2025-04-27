@@ -1,6 +1,9 @@
-# Awesome Digital Assets in Financial Services (European Focus) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PushRequests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![PushRequests](https://img.shields.io/badge/license-CC0-blue.svg?style=flat-square)
+# Awesome Digital Assets in Financial Services (European Focus) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PushRequests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![License: CC0](https://img.shields.io/badge/license-CC0-blue.svg?style=flat-square) ![Last Updated](https://img.shields.io/github/last-commit/larsulbricht/awesome-digital-assets?style=flat-square)
+
 
 <div align="center">
+
+<img width="400" src="media/awesome_digital_assets_logo.png" alt="Awesome Digital Asets Logo">
 
   <p>A curated collection of high-quality resources on blockchain, tokenization, and DLT-based capital markets — with a focus on European institutional use cases and regulation.</p>
 
@@ -20,7 +23,6 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 - [Digital Assets & Tokenization](#digital-assets--tokenization)
   - [DLT-based Capital Market](#dlt-based-capital-market)
   - [Tokenization by Asset Class](#tokenization-by-asset-class)
-  (#other-tokenized-asset-classes-loans-comgitmodities-etc)
 - [Digital Money](#digital-money)
     - [CBDCs (Central Bank Digital Currencies)](#cbdcs-central-bank-digital-currencies)
     - [Tokenized Bank Deposits](#tokenized-bank-deposits)  
@@ -49,12 +51,11 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 - [Educational Resources](#educational-resources)
 - [Other DLT-related Awesome Lists](#other-dlt-related-awesome-lists)
 
-
 ## Digital Assets & Tokenization
 ### DLT-based Capital Market
 - [MAS: Project Guardian](https://www.mas.gov.sg/schemes-and-initiatives/project-guardian) - Project Guardian references a four layered model to describe technology components in a digital asset network. The reference model provides the context for considering the interactions between different component layers in a digital asset solution. Each layer could be governed and implemented by different actors.
 - ⭐️ [GFMA: Impact of Distributed Ledger Technology in Global Capital Markets](https://www.gfma.org/wp-content/uploads/2023/05/impact-of-dlt-on-global-capital-markets-full-report.pdf) - In-depth report covering the topic of a DLT-based capital market from Basics to more advanced topics.
-- [Bain: How Tokenization Can Fuel a $400 Billion Opportunity in Distributing Alternative Investments to Individuals](https://www.bain.com/insights/how-tokenization-can-fuel-a-400-billion-opportunity-in-distributing-alternative-investments-to-individuals/) - BCG Report on the relevance of on-chain asset tokenization.
+- [Bain: How Tokenization Can Fuel a $400 Billion Opportunity in Distributing Alternative Investments to Individuals](https://www.bain.com/insights/how-tokenization-can-fuel-a-400-billion-opportunity-in-distributing-alternative-investments-to-individuals/) - This paper describes how blockchain and tokenization could directly address the distribution challenges facing the alternatives industry.
 - [BCG: Relevance of on-chain asset tokenization in 'crypto winter'](https://web-assets.bcg.com/1e/a2/5b5f2b7e42dfad2cb3113a291222/on-chain-asset-tokenization.pdf) - BCG Report on the relevance of on-chain asset tokenization.
 - [Kinexys (JPM): Project EPIC](https://www.jpmorgan.com/kinexys/documents/JPMC-Kinexys-Project-Epic-Whitepaper-2024.pdf) - This report serves as a comprehensive examination of Kinexys' perspective on privacy, identity and composability in asset tokenization.
 - [KPMG & KfW: DLT-based Capital Market](https://www.kfw.de/PDF/Investor-Relations/Pdf-Dokumente-Investor-Relations/KPMG-Blockchain-basierter-Kapitalmarkt-Whitepaper_ENG.pdf) - An analysis of the degree of maturity based on KFW's first two blockchain-based digital bonds.
@@ -150,20 +151,20 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 
 ## Technology & Infrastructure
 ### Blockchain Platforms (commonly used in industry initiatives)
-- [Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/) - Hyperledger Fabric, an open source project from the Linux® Foundation, is a modular blockchain framework that is used for many non-financial blockchain use cases, but was also used in some popular initiatives like the Bundesbank Trigger Solution.
-- [Hyperledger Besu](https://besu.hyperledger.org/) - Hyperledger Besu one of the most common frameworks for institutions that want to build on an EVM-based technology for the broad developer ecosystem and the flexibility to potentially switch to public later.
-- [Corda](https://r3.com/corda/) - The Corda platform was created by the enterprise blockchain and software development company R3. Corda is an open source blockchain-based distributed ledger technology and smart contract platform. It is especially popular among banks as it is based on known principles and programming languages (JVM / Kotlin).
+- [Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/) - Hyperledger Fabric, an open-source project from the Linux® Foundation, is a modular blockchain framework that is used for many non-financial blockchain use cases, but was also used in some popular initiatives like the Bundesbank Trigger Solution.
+- [Hyperledger Besu](https://besu.hyperledger.org/) - Hyperledger Besu is one of the most common frameworks for institutions that want to build on an EVM-based technology for the broad developer ecosystem and the flexibility to potentially switch to public later.
+- [Corda](https://r3.com/corda/) - The Corda platform was created by the enterprise blockchain and software development company R3. Corda is an open-source blockchain-based distributed ledger technology and smart contract platform. It is especially popular among banks as it is based on known principles and programming languages (JVM / Kotlin).
 - [DAML](https://www.digitalasset.com/developers) - DAML is an open-source smart contract language for building future-proof distributed applications developed by the company Digital Asset. It has been used in multiple company initiatives, e.g. the Canton Network.
 
 
 
 ### Custody Solutions
-- [Fireblocks](http://fireblocks.com/) - A leading digital asset infrastructure platform offering secure custody, wallet-as-a-service, payments, and tokenization solutions. Fireblocks employs multi-party computation (MPC) technology to safeguard digital assets (e.g. used by BNY Mellon, Revolut and Crypto.com). 
-- [Taurus](http://taurushq.com/) - A Swiss-based digital asset infrastructure provider offering a comprehensive platform for custody, issuance, and management of digital assets (e.g. used by Deutsche Bank, State Street, Santander, UBS).
-- [Metaco](http://metaco.com/) - A Swiss digital asset custody firm acquired by Ripple, providing custody orchestration platforms for financial institutions (e.g. used by Citi, BBVA, DBS, BNP Paribas, DZ Bank, Standard Chartered)
+- [Fireblocks](http://fireblocks.com/) - A leading digital asset infrastructure platform offering secure custody, wallet-as-a-service, payments, and tokenization solutions. Fireblocks employs multi-party computation (MPC) technology to safeguard digital assets (e.g., used by Revolut, Crypto.com). 
+- [Taurus](http://taurushq.com/) - A Swiss-based digital asset infrastructure provider offering a comprehensive platform for custody, issuance, and management of digital assets (e.g., used by Deutsche Bank, State Street, Santander, UBS).
+- [Metaco](http://metaco.com/) - A Swiss digital asset custody firm acquired by Ripple, providing custody orchestration platforms for financial institutions (e.g., used by Citi, BBVA, DBS, BNP Paribas, DZ Bank, Standard Chartered)
 - [BitGo](http://bitgo.com/) - Pioneering multi-signature wallet technology, BitGo provides institutional-grade custody with advanced security protocols, insurance coverage, and real-time portfolio tracking capabilities (e.g. used by Galaxy Digital (acquired BitGo), Pantera Capital, Nexo).
-- [Ledger Enterprise](https://enterprise.ledger.com/) - Enterprise-grade custody with HSM-backed private key storage and governance workflows (e.g. used by Nomura (via Komainu), Uphold).
-- [Copper](https://copper.co/) - Custody and off-exchange settlement (ClearLoop), focused on institutional flexibility and DeFi access (e.g. used by Bitfinex).
+- [Ledger Enterprise](https://enterprise.ledger.com/) - Enterprise-grade custody with HSM-backed private key storage and governance workflows (e.g., used by Nomura (via Komainu), Uphold).
+- [Copper](https://copper.co/) - Custody and off-exchange settlement (ClearLoop), focused on institutional flexibility and DeFi access (e.g., used by Bitfinex).
 
 ### Interoperability Solutions
 - [Project Guardian: Interlinking Networks](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/interlinking-networks-technical-paper-vfinal.pdf) - This report proposes a common model for linking digital asset networks implemented on diverse ledger technologies and describes common archetypes for the issuance, distribution and transfer of digital assets and introduces a reference model for cross-network exchanges.
@@ -251,17 +252,17 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 ## Educational Resources
 
 - [TUM Blockchain-based Systems Engineering - Lecture Slides](https://github.com/sebischair/bbse) - This GitHub-repository contains all contents of the lecture Blockchain-based Systems Engineering (IN2359), held regularly in the summer term at the Technical University of Munich.
-- ⭐️ [MIT OpenCourseWare - Blockchain And Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/download/) - Course for students wishing to explore blockchain technology's potential use—by entrepreneurs & incumbents—to change the world of money and finance by Prof. Gary Gensler (!).
+- ⭐️ [MIT OpenCourseWare - Blockchain And Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/download/) - Course for students wishing to explore blockchain technology's potential use—by entrepreneurs & incumbents—to change the world of money and finance by Prof. Gary Gensler.
 - [Web3 Mentoring Journeys by the Frankfurt School](https://web3-talents.io/) - Kick-start your career in the fields of DLT, DeFi, NFT, and Bitcoin. Web3 Talents offers free 18-week mentoring programs to get you started in web3.
 
 
 ## Other DLT-related Awesome Lists
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
-- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
+- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open-source distributed settlement network.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
-- [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
-- [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+- [Corda](https://github.com/chainstack/awesome-corda#readme) - Open-source blockchain platform designed for business.
+- [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open-source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
