@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="400" src="media/awesome_digital_assets_logo.png" alt="Awesome Digital Asets Logo">
+<img width="400" src="media/awesome_digital_assets_logo.png" alt="Awesome Digital Assets Logo">
 
   <p>A curated collection of high-quality resources on blockchain, tokenization, and DLT-based capital markets — with a focus on European institutional use cases and regulation.</p>
 
@@ -53,25 +53,25 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 
 ## Digital Assets & Tokenization
 ### DLT-based Capital Market
-- [MAS: Project Guardian](https://www.mas.gov.sg/schemes-and-initiatives/project-guardian) - Project Guardian references a four layered model to describe technology components in a digital asset network. The reference model provides the context for considering the interactions between different component layers in a digital asset solution. Each layer could be governed and implemented by different actors.
-- ⭐️ [GFMA: Impact of Distributed Ledger Technology in Global Capital Markets](https://www.gfma.org/wp-content/uploads/2023/05/impact-of-dlt-on-global-capital-markets-full-report.pdf) - In-depth report covering the topic of a DLT-based capital market from Basics to more advanced topics.
+- [MAS: Project Guardian](https://www.mas.gov.sg/schemes-and-initiatives/project-guardian) - Project Guardian references a four-layered model to describe technology components in a potential digital asset network for capital markets.
+- [GFMA: Impact of Distributed Ledger Technology in Global Capital Markets](https://www.gfma.org/wp-content/uploads/2023/05/impact-of-dlt-on-global-capital-markets-full-report.pdf) - In-depth report covering the topic of a DLT-based capital market from basics to more advanced topics. ⭐️
 - [Bain: How Tokenization Can Fuel a $400 Billion Opportunity in Distributing Alternative Investments to Individuals](https://www.bain.com/insights/how-tokenization-can-fuel-a-400-billion-opportunity-in-distributing-alternative-investments-to-individuals/) - This paper describes how blockchain and tokenization could directly address the distribution challenges facing the alternatives industry.
 - [BCG: Relevance of on-chain asset tokenization in 'crypto winter'](https://web-assets.bcg.com/1e/a2/5b5f2b7e42dfad2cb3113a291222/on-chain-asset-tokenization.pdf) - BCG Report on the relevance of on-chain asset tokenization.
 - [Kinexys (JPM): Project EPIC](https://www.jpmorgan.com/kinexys/documents/JPMC-Kinexys-Project-Epic-Whitepaper-2024.pdf) - This report serves as a comprehensive examination of Kinexys' perspective on privacy, identity and composability in asset tokenization.
-- [KPMG & KfW: DLT-based Capital Market](https://www.kfw.de/PDF/Investor-Relations/Pdf-Dokumente-Investor-Relations/KPMG-Blockchain-basierter-Kapitalmarkt-Whitepaper_ENG.pdf) - An analysis of the degree of maturity based on KFW's first two blockchain-based digital bonds.
+- [KPMG & KfW: DLT-based Capital Market](https://www.kfw.de/PDF/Investor-Relations/Pdf-Dokumente-Investor-Relations/KPMG-Blockchain-basierter-Kapitalmarkt-Whitepaper_ENG.pdf) - An analysis of the degree of maturity of DLT-based capital markets based on KfW's first two blockchain-based digital bonds.
 - [Fabian Schär for the European Commission: Enhancing financial services with permissionless blockchains](https://op.europa.eu/en/publication-detail/-/publication/cab54e8e-ad3b-11ef-acb1-01aa75ed71a1/language-en) - This report examines the potential of public permissionless blockchains to enhance traditional financial services. 
 
 ### Tokenization by Asset Class
 
 #### Tokenized Funds
 - [BCG: Tokenized Funds - The Third Revolution in Asset Management Decoded](https://web-assets.bcg.com/81/71/6ff0849641a58706581b5a77113f/tokenized-funds-the-third-revolution-in-asset-management-decoded.pdf) - Fund tokenization, the third revolution in asset management, offers the potential to create billions of dollars in value for both financial institutions and end investors, according to this whitepaper.
-- [Project Guardian: (Tokenized) Funds Framework (GFF)](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/guardian-funds-framework.pdf) - The framework provides recommendations for establishing a framework for the tokenisation of the fund lifecycle and activities, including asset servicing, and on-chain share register archetypes and data.
-- [DTCC: Smart NAV Pilot Report: Bringing Trusted Data to the Blockchain Ecosystem](https://www.dtcc.com/-/media/Files/Downloads/DTCC-Connection/Smart_NAV-Report.pdf) - As part of this exploration, DTCC developed a new pilot, Smart NAV, which leveraged DTCC's digital asset capabilities, as well as Chainlink, a leading technology platform for cross-chain interoperability, and blockchain abstraction.
+- [Project Guardian: (Tokenized) Funds Framework (GFF)](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/guardian-funds-framework.pdf) - The framework provides recommendations for the tokenisation of the fund lifecycle and activities, including asset servicing, and on-chain share register archetypes and data.
+- [DTCC: Smart NAV Pilot Report: Bringing Trusted Data to the Blockchain Ecosystem](https://www.dtcc.com/-/media/Files/Downloads/DTCC-Connection/Smart_NAV-Report.pdf) - As part of this exploration, DTCC developed a new pilot, Smart NAV, which leveraged DTCC's digital asset capabilities, as well as Chainlink for cross-chain interoperability.
 - [Analysis of Blackrock's MMF (BUIDL)](https://www.steakhouse.financial/projects/blackrock-buidl#21-record-of-ownership) - Analysis of BlackRock's tokenized Money Market Fund (BUIDL), focusing on ownership structure and solution design.
-- [FIRM: DLT and Digital Assets in the Evolving Realm of Asset Management](https://firm.fm/wp-content/uploads/2024/02/FINAL_Round-Table-Assetmanagement_Whitepaper_II.pdf) - This whitepaper examines the integration of DLT into asset management, describing the benefits as well as the potential risks. It also shows a case study by Bankhaus Metzler on the issue and trading of native crypto fund shares under German law.
+- [FIRM: DLT and Digital Assets in the Evolving Realm of Asset Management](https://firm.fm/wp-content/uploads/2024/02/FINAL_Round-Table-Assetmanagement_Whitepaper_II.pdf) - This whitepaper examines the integration of DLT into asset management, describing the benefits as well as potential risks. It also shows a case study by Bankhaus Metzler on the issue and trading of native crypto fund shares under German law.
 
 #### Tokenized Securities & Bonds
-- [Project Guardian: Fixed Income Framework (GFIF)](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/guardian-fixed-income-framework.pdf) - The framework provides an industry guide to implementing tokenisation in Debt Capital Markets and integrates ICMA Capital Market Association's Bond Data Taxonomy, Capital Markets and Technology Association's Token Standards, and the Global Financial Markets Association's Design Principles for Tokenised Securities.
+- [Project Guardian: Fixed Income Framework (GFIF)](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/guardian-fixed-income-framework.pdf) - This detailed framework provides an industry guide to implementing tokenisation in Debt Capital Markets.
 
 #### Tokenized Real Estate
 - [Deloitte: Digital dividends - How tokenized real estate could revolutionize asset management](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions/2025/tokenized-real-estate.html) - The global market for commercial real estate tokenization is expected to expand dramatically by 2035. Here's how a few players are making waves.
@@ -83,7 +83,7 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 ## Digital Money
 <b>Important note</b>: This list covers digital money only when it can potentially be used in capital markets transactions. Therefore, the retail digital euro is currently excluded, as it is intended solely for retail use at this stage.
 
-- [BIS: Leveraging tokenisation for payments and financial transactions](https://www.bis.org/publ/othp92.pdf) - This report was prepared by a technical task force of central bank experts, chaired by Fabio Araujo (Central Bank of Brazil). Its main purpose is to open the discussion about asset tokenisation and its role in integrated financial ecosystems and to report on the experiments being conducted in the region.
+- [BIS: Leveraging tokenisation for payments and financial transactions](https://www.bis.org/publ/othp92.pdf) - This report was prepared by a technical task force of central bank experts. Its main purpose is to open the discussion about asset tokenisation and its role in integrated financial ecosystems.
 
 ### CBDCs (Central Bank Digital Currencies)
 #### Wholesale CBDCs
@@ -101,13 +101,13 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 ### Tokenized Bank Deposits
 - [DK: Commercial Bank Money Token (CBMT)](https://die-dk.de/media/files/20230523_GBIC_Working_Paper_on_Commercial_Bank_Money_Token_V1.51.pdf) - The commercial bank money token, CBMT, represents a pioneering step towards a more digitalised financial system, achieved by placing commercial bank money onto distributed ledger technology, DLT.
   - [Commercial Bank Money Token: Proof of Concept Report](https://die-dk.de/media/files/240716_DKBDI_position_CBMT_final.pdf) - Report by the BDI on potential use cases of the CBMT.
-  - [CBMT Webinar by DK](https://vimeo.com/944758182) - In this recording of the 90-minute online webinar on CBMT, the banks and industrial companies involved in the CBMT proof-of-concept present the concept of a bank money token, show the technical implementation of practical industry use cases in blockchain environments and answer questions from participants.
+  - [CBMT Webinar by DK](https://vimeo.com/944758182) - In this recording of the 90-minute online webinar on CBMT, the banks and industrial companies involved in the CBMT proof-of-concept present the concept of a commercial bank money token.
 - [Deposit Tokens: A foundation for stable digital money](https://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2023/feb/oliver-wyman-jp--morgan-deposit-tokens-report-final.pdf) - Report of Oliver Wyman explaining the role deposit tokens can play in the evolution of digital money.
-- [EBA: Report on Tokenised Deposits](https://www.eba.europa.eu/sites/default/files/2024-12/4b294386-1235-463f-b9b5-08f255160435/Report%20on%20Tokenised%20deposits.pdf) - As part of the European Banking Authority's (EBA) 2024-25 priorities on innovative applications, an analysis on the tokenisation of deposits by credit institutions has been carried out to identify existing cases, potential benefits and challenges, and actions the EBA and competent authorities may take to address any identified issues.
+- [EBA: Report on Tokenised Deposits](https://www.eba.europa.eu/sites/default/files/2024-12/4b294386-1235-463f-b9b5-08f255160435/Report%20on%20Tokenised%20deposits.pdf) - As part of the European Banking Authority's (EBA) 2024-25 priorities on innovative applications, an analysis on the tokenisation of deposits by credit institutions has been carried out to identify existing cases, potential benefits and challenges.
 
 ### Stablecoins (Privately Issued Money)
-- [Circle Payments Network Whitepaper](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/Whitepapers/CPN_Whitepaper.pdf) - Circle Payments Network brings financial institutions together in a compliant, seamless, and programmable framework to orchestrate global payments in fiat, USDC, and other payment stablecoins.
-- [Ubyx: Stablecoin Ubiquity](https://www.ubyx.xyz/) - Ubyx proposes the idea of a clearing system that allows to deposit stablecoins from many issuers and multiple currencies into existing bank and fintech accounts and receive full value with the goal to meet the test for singleness of money.
+- [Circle Payments Network Whitepaper](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/Whitepapers/CPN_Whitepaper.pdf) - Circle Payments Network brings financial institutions together in a compliant, seamless, and programmable framework.
+- [Ubyx: Stablecoin Ubiquity](https://www.ubyx.xyz/) - Ubyx proposes the idea of a clearing system that allows stablecoins from many issuers to be deposited and multiple currencies into existing bank and fintech accounts with the goal to meet the test for singleness of money.
 
 ## Decentralized Finance (DeFi)
 - [BIS Paper: Cryptocurrencies and decentralised finance](https://www.bis.org/publ/bppdf/bispap156.htm) - A framework for prudential regulation that can mitigate risks while fostering innovation in the rapidly evolving crypto ecosystem.
@@ -125,9 +125,9 @@ The BIS Innovation Hub aims to foster international collaboration on innovative 
   - [Project Promissa](https://www.bis.org/about/bisih/topics/fmis/promissa.htm) - The project experiments with the concept of synchronisation, in which transactions settle using central bank money (reserves kept by commercial banks in the central bank) in an RTGS system.
     - [Project Promissa: Final Project Report](https://www.bis.org/publ/othp93.pdf)
 
-  - [Project Polaris](https://www.bis.org/about/bisih/topics/cbdc/polaris.htm) - Project Polaris, from the BIS Innovation Hub Nordic Centre, is focused on designing secure and resilient CBDC systems, online and offline. Over several workstreams, Project Polaris will provide central banks with the essential information needed to inform decision-making, architecture, design, implementation planning and investments.
-  - [Project Jura](https://www.bis.org/about/bisih/topics/cbdc/jura.htm) - Project Jura explores the direct transfer of euro and Swiss franc wholesale central bank digital currencies (wCBDCs) between French and Swiss commercial banks on a single DLT platform operated by a third party. It continues the experimentation under Project Helvetia and is part of a series of wholesale CBDC experiments initiated by the BdF in 2020.
-  - [Project Helvetia](https://www.bis.org/about/bisih/topics/cbdc/helvetia.htm) - Project Helvetia started a multi-phase investigation by the BIS Innovation Hub, the Swiss National Bank (SNB) and the financial infrastructure operator SIX. The project explored how central banks could offer settlement in central bank money in a future with more tokenised financial assets based on distributed ledger technology (DLT), focusing on operational, legal and policy questions.
+  - [Project Polaris](https://www.bis.org/about/bisih/topics/cbdc/polaris.htm) - Project Polaris is focused on designing secure and resilient CBDC systems, online and offline. Over several workstreams, Project Polaris will provide central banks with the essential information needed to inform decision-making, architecture, design, implementation planning and investments.
+  - [Project Jura](https://www.bis.org/about/bisih/topics/cbdc/jura.htm) - Project Jura explores the direct transfer of euro and Swiss franc wholesale central bank digital currencies (wCBDCs) between French and Swiss commercial banks on a single DLT platform operated by a third party. It continues the experimentation under Project Helvetia.
+  - [Project Helvetia](https://www.bis.org/about/bisih/topics/cbdc/helvetia.htm) - Project Helvetia started a multi-phase investigation by the BIS Innovation Hub, the Swiss National Bank (SNB) and the financial infrastructure operator SIX. The project explored how central banks could offer settlement in central bank money in a future with more tokenised financial assets.
   - [Project Icebreaker](https://www.bis.org/publ/othp61.htm) - Project Icebreaker explored a specific way to interlink rCBDC systems (the hub-and-spoke solution) with several additional features that would allow the Icebreaker model to be readily scaled up.
   - [Project Meridian](https://www.bis.org/about/bisih/topics/fmis/meridian.htm) - The project experiments with the concept of synchronisation, in which transactions settle using central bank money (reserves kept by commercial banks in the central bank) in an RTGS system.
       - [Project Meridian: Final Project Report](https://www.bis.org/publ/othp63.pdf)
@@ -140,7 +140,7 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 - [5th NTW-CG Meeting: Presentations on Business Cases and Interoperability Standards (by BNP Paribas, DZ Bank / Deutsche Börse, Intesa Sanpaolo, KFW, Societe Generale, SWIFT / ING and AFME / GFMA)](https://www.ecb.europa.eu/paym/groups/ntwcg/pdf/ecb.ntwdocs231115_business_cases_5th_ntwcg_meeting.en.pdf?9da5238b2e28673085acf5eeb9544589) - Members of the NTW-CG were invited to report on business cases and interoperability standards for DLT-based settlement.
 - [6th NTW-CG Meeting: Presentations on Business Cases (by ABI / Spunta Banca DLT, AXA / Union Investment, DZ Bank, Kynexis / Onyx and DekaBank / SWIAT)](https://www.ecb.europa.eu/paym/groups/ntwcg/pdf/ecb.ntwdocs240125_business_cases_6th_ntwcg_meeting.en.pdf?699a31762d1ff99c15d8f9f7c51dcbe3) - Members of the NTW-CG were invited to report on business cases and interoperability standards for DLT-based settlement.
 - [8th NTW-CG Meeting: Presentations on New Technologies for Settlement (by DTCC / Clearstream / Euroclear, Crédit Agricole, SWIAT and SWIFT)](https://www.ecb.europa.eu/paym/groups/ntwcg/pdf/ecb.ntwdocs240618_member_presentations_8th_ntwcg_meeting.en.pdf?aff577b160700d389c28ab188ab55473) - Members' presentations on topics related to new technologies for settlement of wholesale financial transactions in central bank money.
-- [9th NTW-CG Meeting: Presentation on Republic of Slovenia issuance of digital bond during the exploratory work](https://www.ecb.europa.eu/paym/groups/ntwcg/pdf/ecb.ntwdocs240925_invitees_presentations_9th_ntwcg_meeting.en.pdf?1a1e8d3639f11c3c3e92b32a5ea0b160) - On 25 July 2024, the Republic of Slovenia issued its inaugural digital bond. The transaction is the first such transaction of an EU sovereign, and one of the first sovereigns worldwide. Republic of Slovenia representatives will present the motivations and implications for a sovereign issuer to explore new technologies, as well as share some findings from the experience made.
+- [9th NTW-CG Meeting: Presentation on Republic of Slovenia issuance of digital bond during the exploratory work](https://www.ecb.europa.eu/paym/groups/ntwcg/pdf/ecb.ntwdocs240925_invitees_presentations_9th_ntwcg_meeting.en.pdf?1a1e8d3639f11c3c3e92b32a5ea0b160) - On 25 July 2024, the Republic of Slovenia issued its inaugural digital bond. The transaction is the first such transaction of an EU sovereign, and one of the first sovereigns worldwide. Republic of Slovenia representatives presented the motivations and implications for a sovereign issuer to explore new technologies, as well as share some findings from the experience made.
 - [10th NTW-CG Meeting: Presentations by members on keeping momentum, a cooperative ecosystem and avoiding fragmentation (by BIS, AFME, BNP Paribas, Crédit Agricole, Deutsche Börse, HSBC, Kinexys, KFW and Regulated Layer One (RL1) / SWIAT )](https://www.ecb.europa.eu/paym/groups/ntwcg/pdf/ecb.ntwdocs241126_member_presentations_10th_ntwcg_meeting.en.pdf?eb5490d3879ea928a3ffc00922b3c61f) - Multiple CG members volunteered to present their view on (some of) the following topics: Keeping the momentum after the exploratory work, towards a cooperative ecosystem, how to avoid fragmentation and the creation of asset silos.
 
 ### Other Consortia & Networks
@@ -226,14 +226,14 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 
 ### News Sites
 
-- ⭐️ [Ledger Insights](https://www.ledgerinsights.com/) - One of the most comprehensive news sites for institutional blockchain news.
+- [Ledger Insights](https://www.ledgerinsights.com/) - One of the most comprehensive news sites for institutional blockchain news. ⭐️
 - [CoinDesk](https://www.coindesk.com/) - One of the largest and most popular crypto media outlets in the world. Originally founded in 2013, CoinDesk features news articles, videos, podcasts, and newsletters for breaking news and expert opinions.
 - [Forbes: Digital Assets](https://www.forbes.com/digital-assets) - Insights into the biggest events shaping the blockchain and crypto industry.
 - [The Block](https://www.theblock.co/) - The Block features breaking crypto news, in-depth research reports, and data dashboards that illustrate on-chain metrics.
 
 ### Podcasts
-- ⭐️ [Bitcoin, Fiat & Rock'n'roll](https://bfrr.info/) - The finance podcast between the traditional and the future financial system built on blockchain.
-- [Chainalysis: Public Key Podcast](https://www.chainalysis.com/blog/category/podcast/) - Public Key is the cryptocurrency and compliance podcast, brought to you by Chainalysis. Every week Chainalysis Chief Marketing Officer, Ian Andrews sits down with thought leaders in the space to discuss a range of topics.
+- [Bitcoin, Fiat & Rock'n'roll](https://bfrr.info/) - The finance podcast between the traditional and the future financial system built on blockchain. ⭐️
+- [Chainalysis: Public Key Podcast](https://www.chainalysis.com/blog/category/podcast/) - Public Key is the cryptocurrency and compliance podcast, brought to you by Chainalysis. Every week, Chainalysis Chief Marketing Officer Ian Andrews sits down with thought leaders in the space to discuss a range of topics.
 - [On The Brink with Castle Island](https://castleisland.libsyn.com/) - A popular weekly podcast (by Castle Island Ventures) covering crypto and digital asset industry news from an institutional and policy angle. Frequent discussions on regulation, market structure, and macro trends with notable guests (industry executives, researchers, and regulators).
 - [Bankless](https://www.bankless.com/podcast) - An influential podcast exploring how blockchain and Web3 can transform finance and society.
 - [The Money Movement](https://www.circle.com/the-money-movement) - A podcast hosted by Circle CEO Jeremy Allaire, focusing on digital currency in finance. Episodes (2020–present) cover trends like stablecoin use in banking, CBDC developments, and conversations with bankers, technologists, and lawmakers shaping the future of money.
@@ -247,13 +247,13 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 - [RWA Tokenization Insights by Particula](https://t.me/tokenizedrwa) - Up to date Insights on Real-World Asset Tokenization and Institutional Adoption Across All Asset Classes.
 
 ##### 🇩🇪 German Resources
-- ⭐️ [Blockstories Newsletter](https://www.blockstories.de/) - Every Tuesday & Friday, we send out a newsletter that informs thousands of readers about the most important developments on the crypto market. Compact, to the point and without hype.
+- [Blockstories Newsletter](https://www.blockstories.de/) - Every Tuesday & Friday, we send out a newsletter that informs thousands of readers about the most important developments on the crypto market. Compact, to the point and without hype. ⭐️
 
 ## Educational Resources
 
 - [TUM Blockchain-based Systems Engineering - Lecture Slides](https://github.com/sebischair/bbse) - This GitHub-repository contains all contents of the lecture Blockchain-based Systems Engineering (IN2359), held regularly in the summer term at the Technical University of Munich.
-- ⭐️ [MIT OpenCourseWare - Blockchain And Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/download/) - Course for students wishing to explore blockchain technology's potential use—by entrepreneurs & incumbents—to change the world of money and finance by Prof. Gary Gensler.
-- [Web3 Mentoring Journeys by the Frankfurt School](https://web3-talents.io/) - Kick-start your career in the fields of DLT, DeFi, NFT, and Bitcoin. Web3 Talents offers free 18-week mentoring programs to get you started in web3.
+- [MIT OpenCourseWare - Blockchain And Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/download/) - Course for students wishing to explore blockchain technology's potential use—by entrepreneurs & incumbents—to change the world of money and finance by Prof. Gary Gensler. ⭐️
+- [Web3 Mentoring Journeys by the Frankfurt School](https://web3-talents.io/) - Kick-start your career in the fields of DLT, DeFi, NFT, and Bitcoin. Web3 Talents offers free 18-week mentoring programs to get you started in web3. ⭐️
 
 
 ## Other DLT-related Awesome Lists
