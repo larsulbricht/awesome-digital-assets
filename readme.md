@@ -8,6 +8,8 @@
 
 </div>
 
+⭐️ Resources marked with a star are recommended beginner-friendly entry points.
+
 Want to contribute? See my [Guide for Contributors](contributing.md).
 
 Questions, feedback, or ideas? Reach out on [LinkedIn](https://www.linkedin.com/in/lars-ulbricht/) — Happy to connect!
@@ -15,8 +17,6 @@ Questions, feedback, or ideas? Reach out on [LinkedIn](https://www.linkedin.com/
 Disclaimer: The resources linked here do not constitute financial advice and are exclusively external sources. The copyright of these great resources lies with the authors.
 
 ## Contents
-
-- [Starter Pack](#starter-pack)
 - [Digital Assets & Tokenization](#digital-assets--tokenization)
   - [DLT-based Capital Market](#dlt-based-capital-market)
   - [Tokenization by Asset Class](#tokenization-by-asset-class)
@@ -49,21 +49,11 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 - [Educational Resources](#educational-resources)
 - [Other DLT-related Awesome Lists](#other-dlt-related-awesome-lists)
 
-## Starter Pack
-
-New to the topic? Start here:
-
-- [MIT OpenCourseWare - Blockchain And Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/download/) (Introductory Course)
-- [Bitcoin, Fiat & Rock'n'roll](https://bfrr.info/) (Regular podcast offering up-to-date insights into blockchain and digital assets, with a focus on Europe's financial sector)
-- [Ledger Insights](https://www.ledgerinsights.com/) (One of the most comprehensive news sites for institutional blockchain news)
-- [GFMA: Impact of Distributed Ledger Technology in Global Capital Markets](https://www.gfma.org/wp-content/uploads/2023/05/impact-of-dlt-on-global-capital-markets-full-report.pdf) (In-depth report covering the topic of a DLT-based capital market from Basics to more advanced topics)
-
-
 
 ## Digital Assets & Tokenization
 ### DLT-based Capital Market
 - [MAS: Project Guardian](https://www.mas.gov.sg/schemes-and-initiatives/project-guardian) - Project Guardian references a four layered model to describe technology components in a digital asset network. The reference model provides the context for considering the interactions between different component layers in a digital asset solution. Each layer could be governed and implemented by different actors.
-- [GFMA: Impact of Distributed Ledger Technology in Global Capital Markets](https://www.gfma.org/wp-content/uploads/2023/05/impact-of-dlt-on-global-capital-markets-full-report.pdf) - This report evaluates the opportunities and risks of DLT-based Capital Markets.
+- ⭐️ [GFMA: Impact of Distributed Ledger Technology in Global Capital Markets](https://www.gfma.org/wp-content/uploads/2023/05/impact-of-dlt-on-global-capital-markets-full-report.pdf) - In-depth report covering the topic of a DLT-based capital market from Basics to more advanced topics.
 - [Bain: How Tokenization Can Fuel a $400 Billion Opportunity in Distributing Alternative Investments to Individuals](https://www.bain.com/insights/how-tokenization-can-fuel-a-400-billion-opportunity-in-distributing-alternative-investments-to-individuals/) - BCG Report on the relevance of on-chain asset tokenization.
 - [BCG: Relevance of on-chain asset tokenization in 'crypto winter'](https://web-assets.bcg.com/1e/a2/5b5f2b7e42dfad2cb3113a291222/on-chain-asset-tokenization.pdf) - BCG Report on the relevance of on-chain asset tokenization.
 - [Kinexys (JPM): Project EPIC](https://www.jpmorgan.com/kinexys/documents/JPMC-Kinexys-Project-Epic-Whitepaper-2024.pdf) - This report serves as a comprehensive examination of Kinexys' perspective on privacy, identity and composability in asset tokenization.
@@ -235,13 +225,13 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 
 ### News Sites
 
-- [Ledger Insights](https://www.ledgerinsights.com/) - One of the most comprehensive news sites for institutional blockchain news.
+- ⭐️ [Ledger Insights](https://www.ledgerinsights.com/) - One of the most comprehensive news sites for institutional blockchain news.
 - [CoinDesk](https://www.coindesk.com/) - One of the largest and most popular crypto media outlets in the world. Originally founded in 2013, CoinDesk features news articles, videos, podcasts, and newsletters for breaking news and expert opinions.
 - [Forbes: Digital Assets](https://www.forbes.com/digital-assets) - Insights into the biggest events shaping the blockchain and crypto industry.
 - [The Block](https://www.theblock.co/) - The Block features breaking crypto news, in-depth research reports, and data dashboards that illustrate on-chain metrics.
 
 ### Podcasts
-- [Bitcoin, Fiat & Rock'n'roll](https://bfrr.info/) - The finance podcast between the traditional and the future financial system built on blockchain.
+- ⭐️ [Bitcoin, Fiat & Rock'n'roll](https://bfrr.info/) - The finance podcast between the traditional and the future financial system built on blockchain.
 - [Chainalysis: Public Key Podcast](https://www.chainalysis.com/blog/category/podcast/) - Public Key is the cryptocurrency and compliance podcast, brought to you by Chainalysis. Every week Chainalysis Chief Marketing Officer, Ian Andrews sits down with thought leaders in the space to discuss a range of topics.
 - [On The Brink with Castle Island](https://castleisland.libsyn.com/) - A popular weekly podcast (by Castle Island Ventures) covering crypto and digital asset industry news from an institutional and policy angle. Frequent discussions on regulation, market structure, and macro trends with notable guests (industry executives, researchers, and regulators).
 - [Bankless](https://www.bankless.com/podcast) - An influential podcast exploring how blockchain and Web3 can transform finance and society.
@@ -256,12 +246,12 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 - [RWA Tokenization Insights by Particula](https://t.me/tokenizedrwa) - Up to date Insights on Real-World Asset Tokenization and Institutional Adoption Across All Asset Classes.
 
 ##### 🇩🇪 German Resources
-- [Blockstories Newsletter](https://www.blockstories.de/) - Every Tuesday & Friday, we send out a newsletter that informs thousands of readers about the most important developments on the crypto market. Compact, to the point and without hype.
+- ⭐️ [Blockstories Newsletter](https://www.blockstories.de/) - Every Tuesday & Friday, we send out a newsletter that informs thousands of readers about the most important developments on the crypto market. Compact, to the point and without hype.
 
 ## Educational Resources
 
 - [TUM Blockchain-based Systems Engineering - Lecture Slides](https://github.com/sebischair/bbse) - This GitHub-repository contains all contents of the lecture Blockchain-based Systems Engineering (IN2359), held regularly in the summer term at the Technical University of Munich.
-- [MIT OpenCourseWare - Blockchain And Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/download/) - Course for students wishing to explore blockchain technology's potential use—by entrepreneurs & incumbents—to change the world of money and finance by Prof. Gary Gensler (!).
+- ⭐️ [MIT OpenCourseWare - Blockchain And Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/download/) - Course for students wishing to explore blockchain technology's potential use—by entrepreneurs & incumbents—to change the world of money and finance by Prof. Gary Gensler (!).
 - [Web3 Mentoring Journeys by the Frankfurt School](https://web3-talents.io/) - Kick-start your career in the fields of DLT, DeFi, NFT, and Bitcoin. Web3 Talents offers free 18-week mentoring programs to get you started in web3.
 
 
