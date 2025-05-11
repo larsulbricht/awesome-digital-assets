@@ -85,6 +85,8 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 
 - [BIS: Leveraging tokenisation for payments and financial transactions](https://www.bis.org/publ/othp92.pdf) - This report was prepared by a technical task force of central bank experts. Its main purpose is to open the discussion about asset tokenisation and its role in integrated financial ecosystems.
 
+- [Kinexys(JPM): Designing payment tokens for safety, integrity, interoperability and usability](https://www.jpmorgan.com/kinexys/documents/designing-payment-tokens-for-safety-integrity-interoperability-usability.pdf) - Handbook for designing and developing new payment token products. Applicable to all forms of digital money including CBDCs, even while we focused on bank-issued payment tokens. Includes design guidelines, list of functionalities, and a mapping of existing token standards to functionalities which can serve as a blueprint.
+
 ### CBDCs (Central Bank Digital Currencies)
 #### Wholesale CBDCs
 - [Cambridge: Wholesale Central Bank Digital Currencies - Approaches, Implementation Strategies and Use Cases](https://www.jbs.cam.ac.uk/wp-content/uploads/2024/12/2024-12-ccaf-wcbdcs-approaches-implementation-strategies-and-use-cases.pdf) - The report aims to provide valuable insights on key opportunities and risks surrounding wholesale CBDCs, help facilitate public-private dialogue and further our collective understanding of this rapidly evolving space.
@@ -120,7 +122,8 @@ The BIS Innovation Hub aims to foster international collaboration on innovative 
 
 - [BIS Innovation Hub](https://www.bis.org/about/bisih/about.htm)
   - [Tokenisation in the context of money and other assets: concepts and implications for central banks](https://www.bis.org/cpmi/publ/d225.pdf) - Joint report by the Bank for International Settlements (BIS) and Committee on Payments and Market Infrastructures (CPMI).
-  - [Project Agorá](https://www.bis.org/about/bisih/topics/fmis/agora.htm) - The project builds on the unified ledger concept proposed by the BIS and will investigate how tokenised commercial bank deposits can be seamlessly integrated with tokenised wholesale central bank money in a public-private programmable core financial platform.
+  
+  <br/><br/>Completed
   - [Project Aurum 2.0](https://www.bis.org/about/bisih/topics/cbdc/aurum2_0.htm) - The project seeks to advance the practical understanding of central banks around privacy when designing their CBDC systems and demonstrate to public sector how technology can protect personal data in the CBDC space.
   - [Project Promissa](https://www.bis.org/about/bisih/topics/fmis/promissa.htm) - The project experiments with the concept of synchronisation, in which transactions settle using central bank money (reserves kept by commercial banks in the central bank) in an RTGS system.
     - [Project Promissa: Final Project Report](https://www.bis.org/publ/othp93.pdf)
@@ -129,9 +132,19 @@ The BIS Innovation Hub aims to foster international collaboration on innovative 
   - [Project Jura](https://www.bis.org/about/bisih/topics/cbdc/jura.htm) - Project Jura explores the direct transfer of euro and Swiss franc wholesale central bank digital currencies (wCBDCs) between French and Swiss commercial banks on a single DLT platform operated by a third party. It continues the experimentation under Project Helvetia.
   - [Project Helvetia](https://www.bis.org/about/bisih/topics/cbdc/helvetia.htm) - Project Helvetia started a multi-phase investigation by the BIS Innovation Hub, the Swiss National Bank (SNB) and the financial infrastructure operator SIX. The project explored how central banks could offer settlement in central bank money in a future with more tokenised financial assets.
   - [Project Icebreaker](https://www.bis.org/publ/othp61.htm) - Project Icebreaker explored a specific way to interlink rCBDC systems (the hub-and-spoke solution) with several additional features that would allow the Icebreaker model to be readily scaled up.
+  - [Project Genesis](https://www.bis.org/about/bisih/topics/green_finance/genesis_2.htm) - Innovative technologies can foster a greener future by transforming finance. Project Genesis 1.0 and 2.0 aim at making it more attractive to issue and invest in green bonds.
+     - [Project Genesis 1.1: Project Report](https://www.bis.org/publ/othp43_report1.pdf)
+     - [Project Genesis 1.2: Project Report](https://www.bis.org/publ/othp43_report2.pdf)
+     - [Project Genesis 1.3: Project Report](https://www.bis.org/publ/othp43_report3.pdf)
+     - [Project Genesis 2.0: Project Report](https://www.bis.org/publ/othp58.pdf)
+  - [Project Dynamo](https://www.bis.org/about/bisih/topics/open_finance/dynamo.htm) - The focus of Project Dynamo was on wholesale adoption explorations of CBDCs, Deposit Token, and Smart Contracts, including adoption challenges and the broader market development outlook for key market participants.
+       - [Project Dynamo: Project Report](https://www.bis.org/publ/othp68.pdf)
+       - [Project Dynamo: Study Report](https://www.bis.org/innovation_hub/dynamo_study.pdf)
+  
+  <br/><br/>Ongoing
   - [Project Meridian](https://www.bis.org/about/bisih/topics/fmis/meridian.htm) - The project experiments with the concept of synchronisation, in which transactions settle using central bank money (reserves kept by commercial banks in the central bank) in an RTGS system.
       - [Project Meridian: Final Project Report](https://www.bis.org/publ/othp63.pdf)
-
+  - [Project Agorá](https://www.bis.org/about/bisih/topics/fmis/agora.htm) - The project builds on the unified ledger concept proposed by the BIS and will investigate how tokenised commercial bank deposits can be seamlessly integrated with tokenised wholesale central bank money in a public-private programmable core financial platform.
 ### ECB New Technologies for Wholesale Settlement Contact Group (NTW-CG)
 
 The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides expert input and keeps the Eurosystem up to date with advances in the use of distributed ledger technology and other new technologies in wholesale financial markets.
@@ -215,6 +228,7 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 - [Digital Assets Week](https://daweek.org/) - Conference series focused on institutional adoption of digital assets. Brings together banks, asset managers, fintechs, and regulators to discuss tokenized securities, regulatory compliance (MiCA, etc.), and innovations in crypto-market infrastructure.
 - [European Blockchain Convention](https://eblockchainconvention.com/) - European Blockchain Convention – One of Europe's premier blockchain events (held in Barcelona). Gathers industry leaders, startups, and EU policymakers to explore blockchain in finance. Features panels on topics like MiCA compliance, enterprise DLT use cases, and the future of Web3 in the European financial sector.
 - [TUM Blockchain Conference](https://conference.tum-blockchain.com/) - The TUM Blockchain Conference unites visionaries and thought leaders in a non-profit setting to transform Web3's potential from promise to action through collaboration and open dialogue. This initiative, organized by the TUM Blockchain Club, is fueled by students' passion for education, innovation, and community.
+- [Point Zero Forum](https://www.pointzeroforum.com/) - The Point Zero Forum is an initiative of the Global Finance & Technology Network (GFTN) and the Swiss State Secretariat for International Finance to promote a policy and technology dialogue in Financial Services.
 
 ## Thought Leaders, Associations & Standards
 - [INATBA](https://inatba.org/) - INATBA (International Association for Trusted Blockchain Applications) – Industry association convening blockchain developers, corporates, and policymakers (launched with EU Commission support). INATBA works on public-private dialogue and produces working group outputs on topics like privacy, interoperability, and regulatory compliance (e.g. recommendations on DeFi regulation and social impact of DLT).
