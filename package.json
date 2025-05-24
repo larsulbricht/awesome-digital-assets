@@ -1,0 +1,15 @@
+{
+  "name": "digital-assets-awesome-list",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <h1>Awesome Digital Assets in Financial Services (European Focus)</h1>\r   <p>\r     <img alt=\"PRs Welcome\" src=\"https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square\">\r     <a href=\"https://awesome.re\"><img alt=\"Awesome\" src=\"https://awesome.re/badge.svg\"></a>\r     <img alt=\"License: CC0\" src=\"https://img.shields.io/badge/license-CC0-blue.svg?style=flat-square\">\r   </p>\r   <p>A curated collection of high-quality resources on blockchain, tokenization, and DLT-based capital markets — with a focus on European institutional use cases and regulation.</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-lint": "^1.2.0"
+  }
+}
