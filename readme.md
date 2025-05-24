@@ -53,7 +53,7 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 
 ## Digital Assets & Tokenization
 ### DLT-based Capital Market
-- [WEF: Asset Tokenization in Financial Markets: The Next Generation of Value Exchange](https://reports.weforum.org/docs/WEF_Asset_Tokenization_in_Financial_Markets_2025.pdf) - In-depth report by the WEF examining the evolution of asset tokenization in financial markets.
+- <b>(NEW)</b> [WEF: Asset Tokenization in Financial Markets: The Next Generation of Value Exchange](https://reports.weforum.org/docs/WEF_Asset_Tokenization_in_Financial_Markets_2025.pdf) - In-depth report by the WEF examining the evolution of asset tokenization in financial markets.
 - [MAS: Project Guardian](https://www.mas.gov.sg/schemes-and-initiatives/project-guardian) - Project Guardian references a four-layered model to describe technology components in a potential digital asset network for capital markets.
 - [GFMA: Impact of Distributed Ledger Technology in Global Capital Markets](https://www.gfma.org/wp-content/uploads/2023/05/impact-of-dlt-on-global-capital-markets-full-report.pdf) - In-depth report covering the topic of a DLT-based capital market from basics to more advanced topics. ⭐️
 - [Bain: How Tokenization Can Fuel a $400 Billion Opportunity in Distributing Alternative Investments to Individuals](https://www.bain.com/insights/how-tokenization-can-fuel-a-400-billion-opportunity-in-distributing-alternative-investments-to-individuals/) - This paper describes how blockchain and tokenization could directly address the distribution challenges facing the alternatives industry.
@@ -109,7 +109,7 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 - [EBA: Report on Tokenised Deposits](https://www.eba.europa.eu/sites/default/files/2024-12/4b294386-1235-463f-b9b5-08f255160435/Report%20on%20Tokenised%20deposits.pdf) - As part of the European Banking Authority's (EBA) 2024-25 priorities on innovative applications, an analysis on the tokenisation of deposits by credit institutions has been carried out to identify existing cases, potential benefits and challenges.
 
 ### Stablecoins (Privately Issued Money)
-- [BCG: Stablecoins Whitepaper](https://media-publications.bcg.com/Stablecoins-five-killer-tests-to-gauge-their-potential.pdf) - Recent BCG study on the stablecoin market and use cases, exploring their value proposition and long-term potential.
+- <b>(NEW)</b> [BCG: Stablecoins Whitepaper](https://media-publications.bcg.com/Stablecoins-five-killer-tests-to-gauge-their-potential.pdf) - Recent BCG study on the stablecoin market and use cases, exploring their value proposition and long-term potential.
 - [Circle Payments Network Whitepaper](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/Whitepapers/CPN_Whitepaper.pdf) - Circle Payments Network brings financial institutions together in a compliant, seamless, and programmable framework.
 - [Ubyx: Stablecoin Ubiquity](https://www.ubyx.xyz/) - Ubyx proposes the idea of a clearing system that allows stablecoins from many issuers to be deposited and multiple currencies into existing bank and fintech accounts with the goal to meet the test for singleness of money.
 
@@ -147,7 +147,7 @@ The BIS Innovation Hub aims to foster international collaboration on innovative 
   - [Project Meridian](https://www.bis.org/about/bisih/topics/fmis/meridian.htm) - The project experiments with the concept of synchronisation, in which transactions settle using central bank money (reserves kept by commercial banks in the central bank) in an RTGS system.
       - [Project Meridian: Final Project Report](https://www.bis.org/publ/othp63.pdf)
   - [Project Agorá](https://www.bis.org/about/bisih/topics/fmis/agora.htm) - The project builds on the unified ledger concept proposed by the BIS and will investigate how tokenised commercial bank deposits can be seamlessly integrated with tokenised wholesale central bank money in a public-private programmable core financial platform.
-  - [Project Pine](https://www.bis.org/about/bisih/topics/fmis/pine.htm) - Project Pine, a joint research study by the New York Fed's New York Innovation Center and the BIS Innovation Hub Swiss Centre, explored if and how central banks can continue implementing monetary policy operations in a tokenised world.
+  - <b>(NEW)</b> [Project Pine](https://www.bis.org/about/bisih/topics/fmis/pine.htm) - Project Pine, a joint research study by the New York Fed's New York Innovation Center and the BIS Innovation Hub Swiss Centre, explored if and how central banks can continue implementing monetary policy operations in a tokenised world.
         - [Project Pine: Final Project Report](https://www.bis.org/publ/othp95.pdf)
 
 
@@ -234,7 +234,7 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 - [Digital Assets Week](https://daweek.org/) - Conference series focused on institutional adoption of digital assets. Brings together banks, asset managers, fintechs, and regulators to discuss tokenized securities, regulatory compliance (MiCA, etc.), and innovations in crypto-market infrastructure.
 - [European Blockchain Convention](https://eblockchainconvention.com/) - European Blockchain Convention – One of Europe's premier blockchain events (held in Barcelona). Gathers industry leaders, startups, and EU policymakers to explore blockchain in finance. Features panels on topics like MiCA compliance, enterprise DLT use cases, and the future of Web3 in the European financial sector.
 - [TUM Blockchain Conference](https://conference.tum-blockchain.com/) - The TUM Blockchain Conference unites visionaries and thought leaders in a non-profit setting to transform Web3's potential from promise to action through collaboration and open dialogue. This initiative, organized by the TUM Blockchain Club, is fueled by students' passion for education, innovation, and community.
-- [Point Zero Forum](https://www.pointzeroforum.com/) - The Point Zero Forum is a high-level annual event in Zurich that explores the future of finance, with blockchain as one of the focus topics. It brings together policymakers, banks, and tech leaders aiming to advance the regulated adoption of blockchain in financial services.
+- <b>(NEW)</b> [Point Zero Forum](https://www.pointzeroforum.com/) - The Point Zero Forum is a high-level annual event in Zurich that explores the future of finance, with blockchain as one of the focus topics. It brings together policymakers, banks, and tech leaders aiming to advance the regulated adoption of blockchain in financial services.
 
 ## Thought Leaders, Associations & Standards
 - [INATBA](https://inatba.org/) - INATBA (International Association for Trusted Blockchain Applications) – Industry association convening blockchain developers, corporates, and policymakers (launched with EU Commission support). INATBA works on public-private dialogue and produces working group outputs on topics like privacy, interoperability, and regulatory compliance (e.g. recommendations on DeFi regulation and social impact of DLT).
