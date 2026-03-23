@@ -28,3 +28,26 @@ When proposing changes:
    - Review
    - Remove/Fix
 3. Explain why each proposed source is relevant.
+
+## Language and Style Quality
+
+- Ensure all entries are free of spelling and grammar errors.
+- Maintain a consistent, professional, and neutral tone.
+- Use concise, one-sentence descriptions.
+- Avoid overly promotional or subjective wording.
+- Ensure consistent terminology (e.g., "DLT", "tokenization", "digital assets").
+- Normalize formatting across entries (capitalization, punctuation, spacing).
+- Prefer clear and precise phrasing over complex or verbose language.
+
+## Style consistency rules
+
+- Descriptions should follow this pattern:
+  [What it is] + [why it matters]
+
+- Example:
+  "A BIS report analyzing the role of tokenized deposits in future financial market infrastructures."
+
+- Avoid:
+  - vague phrases ("interesting", "important")
+  - marketing language ("leading solution", "cutting-edge")
+  - inconsistent tense usage
