@@ -51,3 +51,7 @@ When proposing changes:
   - vague phrases ("interesting", "important")
   - marketing language ("leading solution", "cutting-edge")
   - inconsistent tense usage
+
+- Do not change the meaning of existing entries.
+- Do not introduce new claims or interpretations.
+- If a description is unclear, flag it instead of rewriting aggressively.
