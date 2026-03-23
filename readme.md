@@ -17,6 +17,8 @@ Want to contribute? See my [Guide for Contributors](contributing.md).
 
 Questions, feedback, or ideas? Reach out on [LinkedIn](https://www.linkedin.com/in/lars-ulbricht/) — Happy to connect!
 
+<b>(NEW)</b> If you would prefer and overview of all relevant reports and decide for yourself which is worth reading feel free to check out [Blockstories Intel Library](https://data.blockstories.io/library). Their database covers most relevant reports and has additional functions to sort & filter by topic, date, publisher and more. Their tools also cover and event tracker, news ticker, license tracker and much more. Definitely one of the most high-quality sources if you are looking for digital assets intel.
+
 Disclaimer: The resources linked here do not constitute financial advice and are exclusively external sources. The copyright of these great resources lies with the authors.
 
 ## Contents
@@ -26,7 +28,7 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 - [Digital Money](#digital-money)
     - [CBDCs (Central Bank Digital Currencies)](#cbdcs-central-bank-digital-currencies)
     - [Tokenized Bank Deposits](#tokenized-bank-deposits)  
-    - [Stablecoins (Privately Issued Money)](#stablecoins-privately-issued-money)
+    - [Stablecoins (E-Money Token and others)](#stablecoins-e-money-token-and-others)
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 - [Industry Initiatives & Networks](#industry-initiatives--networks)
     - [BIS Innovation Hub](#bis-innovation-hub)
@@ -53,9 +55,15 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 
 ## Digital Assets & Tokenization
 ### DLT-based Capital Market
-- <b>(NEW)</b> [WEF: Asset Tokenization in Financial Markets: The Next Generation of Value Exchange](https://reports.weforum.org/docs/WEF_Asset_Tokenization_in_Financial_Markets_2025.pdf) - In-depth report by the WEF examining the evolution of asset tokenization in financial markets.
+- <b>(NEW)</b> [Nasdaq: Tokenisation, a buyside practitioner's guide](https://www.efama.org/sites/default/files/files/buy-side-guide-to-tokenisation.pdf) - Our global survey examined collateral operations across investment banks, custodians, prime brokers, asset managers and CCPs to assess current challenges and tokenization readiness. (February 2026)
+- <b>(NEW)</b> [IOSCO: Tokenization of Financial Assets](https://www.iosco.org/library/pubdocs/pdf/IOSCOPD809.pdf) - This Report reflects the observations from a monitoring exercise conducted by IOSCO to conduct research and gather information on the current state of development and adoption of tokenization and distributed ledger technology (DLT) in capital markets products and services. (November 2025) ⭐️
+- <b>(NEW)</b> [EFAMA: Tokenisation, a buyside practitioner's guide](https://www.efama.org/sites/default/files/files/buy-side-guide-to-tokenisation.pdf) - The report provides an overview of how tokenisation will transform the asset management industry, highlights the global context in which other jurisdictions are advancing this topic from a buyside's perspective. (June 2025)
+- <b>(NEW)</b> [CCAF: Digital Public Infrastructure and Digital Financial Services: Convergence, Landscape and Regulatory Considerations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6147566) - The report examines how the convergence of digital public infrastructure (DPI) and digital financial services (DFS) is transforming the financial services sector. (July 2025)
+- <b>(NEW)</b> [GBBC x OliverWyman: Proposed Risk Mitigation Framework for Non-Financial Risks of Blockchain Infrastructures](https://assets.ctfassets.net/so75yocayyva/4Plcwx7j9lfGuLHUnvnFKW/864b0955a33ab1467d2971825f7273ae/Proposed_Risk_Mitigation_Framework_for_Non-Financial_Risks_of_Blockchain_Infrastructure.pdf) - An extensive framework proposing risk mitigation measureas for non-financial risks when using permissionless and permissioned blockchain infrastructures. (July 2025)
+- [WEF: Asset Tokenization in Financial Markets: The Next Generation of Value Exchange](https://reports.weforum.org/docs/WEF_Asset_Tokenization_in_Financial_Markets_2025.pdf) - In-depth report by the WEF examining the evolution of asset tokenization in financial markets.
 - [MAS: Project Guardian](https://www.mas.gov.sg/schemes-and-initiatives/project-guardian) - Project Guardian references a four-layered model to describe technology components in a potential digital asset network for capital markets.
-- [GFMA: Impact of Distributed Ledger Technology in Global Capital Markets](https://www.gfma.org/wp-content/uploads/2023/05/impact-of-dlt-on-global-capital-markets-full-report.pdf) - In-depth report covering the topic of a DLT-based capital market from basics to more advanced topics. ⭐️
+- [GFMA, AFME, BCG and others: The Impact of DLT in Capital Markets: Ready for Adoption, Time to Act](https://www.gfma.org/policies-resources/joint-trades-publish-report-on-the-impact-of-dlt-in-capital-markets/) - This report illustrates how tokenization and DLT are reshaping securities issuance, collateral management, and fund operations. (August 2025) ⭐️
+- [GFMA: Impact of Distributed Ledger Technology in Global Capital Markets](https://www.gfma.org/wp-content/uploads/2023/05/impact-of-dlt-on-global-capital-markets-full-report.pdf) - In-depth report covering the topic of a DLT-based capital market from basics to more advanced topics. 
 - [Bain: How Tokenization Can Fuel a $400 Billion Opportunity in Distributing Alternative Investments to Individuals](https://www.bain.com/insights/how-tokenization-can-fuel-a-400-billion-opportunity-in-distributing-alternative-investments-to-individuals/) - This paper describes how blockchain and tokenization could directly address the distribution challenges facing the alternatives industry.
 - [BCG: Relevance of on-chain asset tokenization in 'crypto winter'](https://web-assets.bcg.com/1e/a2/5b5f2b7e42dfad2cb3113a291222/on-chain-asset-tokenization.pdf) - BCG Report on the relevance of on-chain asset tokenization.
 - [Kinexys (JPM): Project EPIC](https://www.jpmorgan.com/kinexys/documents/JPMC-Kinexys-Project-Epic-Whitepaper-2024.pdf) - This report serves as a comprehensive examination of Kinexys' perspective on privacy, identity and composability in asset tokenization.
@@ -65,6 +73,9 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 ### Tokenization by Asset Class
 
 #### Tokenized Funds
+- <b>(NEW)</b> [GDF: The case for collateral mobility in Europe & the UK using tokenized money market funds](https://www.gdf.io/wp-content/uploads/2020/12/GDF_-UKEU_TMMF-_report.pdf) - Results of a working group reporting on the legal certainty of collateral eligibility and the mobility of Tokenized Money Market Funds (TMMF) in Luxembourg, Ireland, and the UK. (November 2025)
+- <b>(NEW)</b> [MAS: Operationalising Tokenised Funds](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/project-guardian-operationalising-tokenised-funds.pdf) - This report acts as a playbook for launching and scaling tokenised funds proven through pilots and live use cases. (November 2025)
+- <b>(NEW)</b> [BIS: The rise of tokenised money market funds](https://www.bis.org/publ/bisbull115.pdf) - BIS Bulletin on the growing issuance of tokenised money market funds (November 2025)
 - [BCG: Tokenized Funds - The Third Revolution in Asset Management Decoded](https://web-assets.bcg.com/81/71/6ff0849641a58706581b5a77113f/tokenized-funds-the-third-revolution-in-asset-management-decoded.pdf) - Fund tokenization, the third revolution in asset management, offers the potential to create billions of dollars in value for both financial institutions and end investors, according to this whitepaper.
 - [Project Guardian: (Tokenized) Funds Framework (GFF)](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/guardian-funds-framework.pdf) - The framework provides recommendations for the tokenisation of the fund lifecycle and activities, including asset servicing, and on-chain share register archetypes and data.
 - [DTCC: Smart NAV Pilot Report: Bringing Trusted Data to the Blockchain Ecosystem](https://www.dtcc.com/-/media/Files/Downloads/DTCC-Connection/Smart_NAV-Report.pdf) - As part of this exploration, DTCC developed a new pilot, Smart NAV, which leveraged DTCC's digital asset capabilities, as well as Chainlink for cross-chain interoperability.
@@ -83,6 +94,12 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 
 ## Digital Money
 <b>Important note</b>: This list covers digital money only when it can potentially be used in capital markets transactions. Therefore, the retail digital euro is currently excluded, as it is intended solely for retail use at this stage.
+
+- <b>(NEW)</b> [OENB & BCG: Euro Money Tokens: Potential Economic Role of CBDCs and Euro- Denominated Stablecoins](https://www.oenb.at/en/Publications/payments/oenb-bcg-euro-money-tokens.html) - The white paper highlights current development in the EU around digital money also covering strategic opportunities relating to euro-denominated stablecoins. (July 2025)
+
+- <b>(NEW)</b> [CAAF: Tokenised Money - Use Cases, Interoperability and Regulation](https://www.jbs.cam.ac.uk/wp-content/uploads/2026/02/2026-ccaf-tokenised-money-use-cases-interoperability-and-regulation.pdf) - A new study explores the emerging ecosystem of tokenised money and its real world use cases (February 2026)
+
+- <b>(NEW)</b> [BCG: The Future Is (Anything but) Stable](https://web-assets.bcg.com/25/91/2269153c468ca43684442f055cb0/2025-global-payments-report-sep-2025.pdf) - BCG's global payments report for 2025 covering recent developments around stablecoins, CBDC and tokenized deposits with relevant numbers and implications(September 2025)
 
 - [BIS: Leveraging tokenisation for payments and financial transactions](https://www.bis.org/publ/othp92.pdf) - This report was prepared by a technical task force of central bank experts. Its main purpose is to open the discussion about asset tokenisation and its role in integrated financial ecosystems.
 
@@ -108,10 +125,14 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 - [Deposit Tokens: A foundation for stable digital money](https://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2023/feb/oliver-wyman-jp--morgan-deposit-tokens-report-final.pdf) - Report of Oliver Wyman explaining the role deposit tokens can play in the evolution of digital money.
 - [EBA: Report on Tokenised Deposits](https://www.eba.europa.eu/sites/default/files/2024-12/4b294386-1235-463f-b9b5-08f255160435/Report%20on%20Tokenised%20deposits.pdf) - As part of the European Banking Authority's (EBA) 2024-25 priorities on innovative applications, an analysis on the tokenisation of deposits by credit institutions has been carried out to identify existing cases, potential benefits and challenges.
 
-### Stablecoins (Privately Issued Money)
-- <b>(NEW)</b> [BCG: Stablecoins Whitepaper](https://media-publications.bcg.com/Stablecoins-five-killer-tests-to-gauge-their-potential.pdf) - Recent BCG study on the stablecoin market and use cases, exploring their value proposition and long-term potential.
+### Stablecoins (E-Money Token and others)
+- <b>(NEW)</b> [DEA: MiCAR Tracker](https://micatracker.digital-euro-association.de/) - MiCAR Licence Tracker of Digital Euro Association – comprehensive dashboard for navigating Europe’s evolving crypto & stablecoin regulation landscape.
+- <b>(NEW)</b> [BCG: Stablecoins - Five killer tests to gauge their potential](https://media-publications.bcg.com/Stablecoins-five-killer-tests-to-gauge-their-potential.pdf) - In this paper, the authors explore five critical questions to determine the potential of stablecoins (May 2025)
+- <b>(NEW)</b> [State Steet: The Stablecoin Moment](https://www.statestreet.com/web/insights/articles/documents/the-stablecoin-moment-paper.pdf) - A recent analysis on the implications of GENIUS Act for banking, macroeconomics and geopolitics. (August 2025)
+- [BCG: Stablecoins Whitepaper](https://media-publications.bcg.com/Stablecoins-five-killer-tests-to-gauge-their-potential.pdf) - Recent BCG study on the stablecoin market and use cases, exploring their value proposition and long-term potential.
 - [Circle Payments Network Whitepaper](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/Whitepapers/CPN_Whitepaper.pdf) - Circle Payments Network brings financial institutions together in a compliant, seamless, and programmable framework.
 - [Ubyx: Stablecoin Ubiquity](https://www.ubyx.xyz/) - Ubyx proposes the idea of a clearing system that allows stablecoins from many issuers to be deposited and multiple currencies into existing bank and fintech accounts with the goal to meet the test for singleness of money.
+  - <b>(NEW)</b> You can actually contribute to the Ubyx Rulebook here: [Ubyx-Rulebook](https://github.com/deedubuk/Ubyx-Rulebook)
 
 ## Decentralized Finance (DeFi)
 - [BIS Paper: Cryptocurrencies and decentralised finance](https://www.bis.org/publ/bppdf/bispap156.htm) - A framework for prudential regulation that can mitigate risks while fostering innovation in the rapidly evolving crypto ecosystem.
@@ -147,8 +168,8 @@ The BIS Innovation Hub aims to foster international collaboration on innovative 
   - [Project Meridian](https://www.bis.org/about/bisih/topics/fmis/meridian.htm) - The project experiments with the concept of synchronisation, in which transactions settle using central bank money (reserves kept by commercial banks in the central bank) in an RTGS system.
       - [Project Meridian: Final Project Report](https://www.bis.org/publ/othp63.pdf)
   - [Project Agorá](https://www.bis.org/about/bisih/topics/fmis/agora.htm) - The project builds on the unified ledger concept proposed by the BIS and will investigate how tokenised commercial bank deposits can be seamlessly integrated with tokenised wholesale central bank money in a public-private programmable core financial platform.
-  - <b>(NEW)</b> [Project Pine](https://www.bis.org/about/bisih/topics/fmis/pine.htm) - Project Pine, a joint research study by the New York Fed's New York Innovation Center and the BIS Innovation Hub Swiss Centre, explored if and how central banks can continue implementing monetary policy operations in a tokenised world.
-        - [Project Pine: Final Project Report](https://www.bis.org/publ/othp95.pdf)
+  - [Project Pine](https://www.bis.org/about/bisih/topics/fmis/pine.htm) - Project Pine, a joint research study by the New York Fed's New York Innovation Center and the BIS Innovation Hub Swiss Centre, explored if and how central banks can continue implementing monetary policy operations in a tokenised world.
+        - [Project Pine: Final Project Report](https://www.bis.org/publ/othp95.pdf) (May 2025)
 
 
 ### ECB New Technologies for Wholesale Settlement Contact Group (NTW-CG)
@@ -205,6 +226,7 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
   - [AFME: DLT-Based Capital Market Report - Size and Growth of the Global DLT Wholesale Market](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME%20DLT-Based%20Capital%20Market%20Report%202024.pdf) - This report provides a comprehensive overview of the primary DLT-based fixed income market, secondary market activity and valuations, repo transactions, and the growth of the tokenized fund industry alongside other tokenized assets.
   - [AFME: Scaling DLT-based Capital Markets - A Policy Roadmap for the EU](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME_DLT_SSA_Bonds_Policymaker_EU_05.pdf) - This Policy Roadmap sets out an 8-point plan focusing on specific policy and regulatory changes that are necessary to enable that development and growth of DLT-based capital markets.
   - [AFME: Scaling DLT-Based SSA and Government Bond Markets - A Roadmap Strategy for European Issuers](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME_DLT_SSA_Bonds_Issuers_08%20(1)-1.pdf) - While DLT is being adopted in different parts of capital markets, this roadmap focuses on adoption of DLT in markets for bonds issued by European sovereigns, supranational institutions and public-sector agencies.
+  - [Ma, Shufan and Steininger, Bertram I. and Yang, Zan: Digital Bonds: The Role of Costs and Document Information on Trading Volume](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME_DLT_SSA_Bonds_Issuers_08%20(1)-1.pdf) - Using a dataset of 7,719 transactions in digital treasury products backed by U.S. government bonds, the authors explore how fees, frictions, and documentation influence trading behavior on-chain. (June 2025)
   
 
 ##### 🇩🇪 German Resources
