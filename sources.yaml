@@ -2,24 +2,31 @@ priority_sources:
   - name: ECB
     url: https://www.ecb.europa.eu
     type: institution
+
   - name: Deutsche Bundesbank
     url: https://www.bundesbank.de
     type: institution
+
   - name: BIS
     url: https://www.bis.org
     type: institution
+
   - name: ESMA
     url: https://www.esma.europa.eu
     type: regulator
+
   - name: European Commission
     url: https://finance.ec.europa.eu
     type: regulator
+
   - name: Clearstream
     url: https://www.clearstream.com
     type: market_infrastructure
+
   - name: DTCC
     url: https://www.dtcc.com
     type: market_infrastructure
+
   - name: Kinexys by J.P. Morgan
     url: https://www.jpmorgan.com/kinexys
     type: industry
@@ -29,7 +36,7 @@ search_themes:
   - tokenization
   - DLT capital markets
   - stablecoins
-  - wholesale cbdc
+  - wholesale CBDC
   - digital bonds
   - fund tokenization
   - collateral mobility
