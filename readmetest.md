@@ -17,7 +17,7 @@ Want to contribute? See my [Guide for Contributors](contributing.md).
 
 Questions, feedback, or ideas? Reach out on [LinkedIn](https://www.linkedin.com/in/lars-ulbricht/) — Happy to connect!
 
-<b>(NEW)</b> If you look specifically for relevant reports, feel free to also check out [Blockstories Intel Library](https://data.blockstories.io/library). Their database covers most relevant reports and has additional functions to sort & filter by topic, date, publisher and more. Their tools also cover an event tracker, news ticker, license tracker and much more. It is a high-quality source if you are looking for digital asset intel.
+<b>(NEW)</b> If you would prefer an overview of all relevant reports and decide for yourself which is worth reading, feel free to check out [Blockstories Intel Library](https://data.blockstories.io/library). Their database covers the most relevant reports and has additional functions to sort & filter by topic, date, publisher and more. Their tools also cover an event tracker, news ticker, license tracker and much more. This is one of the highest-quality sources if you are looking for digital asset intelligence.
 
 Disclaimer: The resources linked here do not constitute financial advice and are exclusively external sources. The copyright of these great resources lies with the authors.
 
@@ -55,7 +55,7 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 
 ## Digital Assets & Tokenization
 ### DLT-based Capital Market
-- <b>(NEW)</b> [Nasdaq: Making the Case for Tokenized Collateral](https://nd.nasdaq.com/rs/303-QKM-463/images/Nasdaq-ValueExchange-Case-for-Tokenized-Collateral-Report.pdf?%3Futm_programid=13799) - This global survey examined collateral operations across investment banks, custodians, prime brokers, asset managers and CCPs to assess current challenges and tokenization readiness. (February 2026)
+- <b>(NEW)</b> [Nasdaq: Tokenisation, a buyside practitioner's guide](https://www.efama.org/sites/default/files/files/buy-side-guide-to-tokenisation.pdf) - Our global survey examined collateral operations across investment banks, custodians, prime brokers, asset managers and CCPs to assess current challenges and tokenization readiness. (February 2026)
 - <b>(NEW)</b> [IOSCO: Tokenization of Financial Assets](https://www.iosco.org/library/pubdocs/pdf/IOSCOPD809.pdf) - This Report reflects the observations from a monitoring exercise conducted by IOSCO to conduct research and gather information on the current state of development and adoption of tokenization and distributed ledger technology (DLT) in capital markets products and services. (November 2025) ⭐️
 - <b>(NEW)</b> [EFAMA: Tokenisation, a buyside practitioner's guide](https://www.efama.org/sites/default/files/files/buy-side-guide-to-tokenisation.pdf) - The report provides an overview of how tokenisation will transform the asset management industry, highlights the global context in which other jurisdictions are advancing this topic from a buyside's perspective. (June 2025)
 - <b>(NEW)</b> [CCAF: Digital Public Infrastructure and Digital Financial Services: Convergence, Landscape and Regulatory Considerations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6147566) - The report examines how the convergence of digital public infrastructure (DPI) and digital financial services (DFS) is transforming the financial services sector. (July 2025)
@@ -107,14 +107,11 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 
 ### CBDCs (Central Bank Digital Currencies)
 #### Wholesale CBDCs
-- <b>(NEW)</b> [ECB Project Pontes](https://www.ecb.europa.eu/paym/target/pontes/html/index.de.html) - Pontes is the Eurosystem’s distributed ledger technology (DLT) solution that links market DLT platforms and TARGET Services to settle transactions in central bank money. 
-- <b>(NEW)</b> [ECB Project Appia](https://www.ecb.europa.eu/paym/dlt/appia/html/index.de.html) - With Appia, the Eurosystem aims to leverage the unique capabilities of distributed ledger technology (DLT) and tokenisation to foster a harmonised, efficient European financial market.
 - [Cambridge: Wholesale Central Bank Digital Currencies - Approaches, Implementation Strategies and Use Cases](https://www.jbs.cam.ac.uk/wp-content/uploads/2024/12/2024-12-ccaf-wcbdcs-approaches-implementation-strategies-and-use-cases.pdf) - The report aims to provide valuable insights on key opportunities and risks surrounding wholesale CBDCs, help facilitate public-private dialogue and further our collective understanding of this rapidly evolving space.
-- [ECB Wholesale CBDC Trials](https://www.ecb.europa.eu/paym/integration/distributed/exploratory/html/index.en.html#exploratory) - Amid growing interest in potentially using distributed ledger technology (DLT) to settle wholesale financial transactions, in 2024 the Eurosystem tested three interoperability-type solutions.
+- [ECB Wholesale CBDC](https://www.ecb.europa.eu/paym/integration/distributed/exploratory/html/index.en.html#exploratory) - Amid growing interest in potentially using distributed ledger technology (DLT) to settle wholesale financial transactions, in 2024 the Eurosystem tested three interoperability-type solutions.
     - [Trigger Solution by German Bundesbank](https://www.bundesbank.de/en/tasks/payment-systems/trigger-solution/conducted-trials-and-experiments-with-the-trigger-solution-918546) - Overview of all trials conducted with the trigger solution by German Bundesbank.
     - [TIPS Hash-Link by Banca d'Italia](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews231213_annex3.en.pdf) - Description of the TIPS Hash-Link solution tested during the ECB trials by Banca d'Italia.
     - [Full DLT interoperability solution by Banque de France](https://www.banque-france.fr/en/financial-stability/financial-stability-mandate/supporting-digital-transformation-financial-sector/wholesale-mnbc) - Overview Page of different materials on Wholesale CBDC initiatives by the Banque de France.
-
 
 #### Retail CBDCs
 - [Atlantic Council CBDC Tracker](https://www.atlanticcouncil.org/cbdctracker/) - Atlantic Council CBDC Tracker – Interactive tracker monitoring CBDC development globally. Provides up-to-date status on 100+ countries' CBDC projects (research, pilot, launched), including European initiatives like the euro, e-krona, digital pound, and various wholesale CBDC experiments.
@@ -228,11 +225,11 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
   - [AFME: DLT-Based Capital Market Report - Size and Growth of the Global DLT Wholesale Market](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME%20DLT-Based%20Capital%20Market%20Report%202024.pdf) - This report provides a comprehensive overview of the primary DLT-based fixed income market, secondary market activity and valuations, repo transactions, and the growth of the tokenized fund industry alongside other tokenized assets.
   - [AFME: Scaling DLT-based Capital Markets - A Policy Roadmap for the EU](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME_DLT_SSA_Bonds_Policymaker_EU_05.pdf) - This Policy Roadmap sets out an 8-point plan focusing on specific policy and regulatory changes that are necessary to enable that development and growth of DLT-based capital markets.
   - [AFME: Scaling DLT-Based SSA and Government Bond Markets - A Roadmap Strategy for European Issuers](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME_DLT_SSA_Bonds_Issuers_08%20(1)-1.pdf) - While DLT is being adopted in different parts of capital markets, this roadmap focuses on adoption of DLT in markets for bonds issued by European sovereigns, supranational institutions and public-sector agencies.
-  - [Ma, Shufan and Steininger, Bertram I. and Yang, Zan: Digital Bonds: The Role of Costs and Document Information on Trading Volume](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5438974) - Using a dataset of 7,719 transactions in digital treasury products backed by U.S. government bonds, the authors explore how fees, frictions, and documentation influence trading behavior on-chain. (June 2025)
+  - [Ma, Shufan and Steininger, Bertram I. and Yang, Zan: Digital Bonds: The Role of Costs and Document Information on Trading Volume](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME_DLT_SSA_Bonds_Issuers_08%20(1)-1.pdf) - Using a dataset of 7,719 transactions in digital treasury products backed by U.S. government bonds, the authors explore how fees, frictions, and documentation influence trading behavior on-chain. (June 2025)
   
 
 ##### 🇩🇪 German Resources
-- [Deka Digital Assets Monitor H1 2025](https://www.deka.de/site/dekade_deka-gruppe_site/get/params_E684506922/23267530/250630%20Deka%20Digital%20Asset%20Monitor%20HJ1%202025.pdf) - The Deka Digital Assets Monitor observes the development of tokenized securities and assesses progress and challenges.
+- [Deka Digital Assets Monitor Q4 2024](https://www.deka.de/site/dekade_deka-gruppe_site/get/params_E-283343169/22365381/Deka%20Digital%20Asset%20Monitor_2024.pdf) - The Deka Digital Assets Monitor observes the development of tokenized securities and assesses progress and challenges.
 
 ### Data & Analytics Platforms
 - [Particula Reports](https://particula.io/category/ratings/) - High quality reports and ratings for individual projects.
