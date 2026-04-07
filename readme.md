@@ -86,7 +86,7 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 - [Project Guardian: Fixed Income Framework (GFIF)](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/guardian/guardian-fixed-income-framework.pdf) - This detailed framework provides an industry guide to implementing tokenisation in Debt Capital Markets.
 
 #### Tokenized Real Estate
-- [Deloitte: Digital dividends - How tokenized real estate could revolutionize asset management](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions/2025/tokenized-real-estate.html) - The global market for commercial real estate tokenization is expected to expand dramatically by 2035. Here's how a few players are making waves.
+- [Deloitte: Digital dividends - How tokenized real estate could revolutionize asset management](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-predictions/2025/tokenized-real-estate.html) - A Deloitte analysis of tokenized real estate use cases and potential market development.
 
 
 #### Other Tokenized Asset Classes (loans, commodities, etc.)
@@ -201,10 +201,10 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 
 
 ### Custody Solutions
-- [Fireblocks](http://fireblocks.com/) - A leading digital asset infrastructure platform offering secure custody, wallet-as-a-service, payments, and tokenization solutions. Fireblocks employs multi-party computation (MPC) technology to safeguard digital assets (e.g., used by Revolut, Crypto.com). 
-- [Taurus](http://taurushq.com/) - A Swiss-based digital asset infrastructure provider offering a comprehensive platform for custody, issuance, and management of digital assets (e.g., used by Deutsche Bank, State Street, Santander, UBS).
-- [Metaco](http://metaco.com/) - A Swiss digital asset custody firm acquired by Ripple, providing custody orchestration platforms for financial institutions (e.g., used by Citi, BBVA, DBS, BNP Paribas, DZ Bank, Standard Chartered)
-- [BitGo](http://bitgo.com/) - Pioneering multi-signature wallet technology, BitGo provides institutional-grade custody with advanced security protocols, insurance coverage, and real-time portfolio tracking capabilities (e.g. used by Galaxy Digital (acquired BitGo), Pantera Capital, Nexo).
+- [Fireblocks](https://fireblocks.com/) - A digital asset infrastructure platform offering custody, wallet-as-a-service, payments, and tokenization capabilities for institutions.
+- [Taurus](https://taurushq.com/) - A Swiss digital asset infrastructure provider for custody, issuance, and lifecycle management of digital assets.
+- [Metaco](https://metaco.com/) - A Swiss digital asset custody and orchestration provider used by financial institutions.
+- [BitGo](https://bitgo.com/) - An institutional digital asset custody provider with multi-signature wallet and security infrastructure.
 - [Ledger Enterprise](https://enterprise.ledger.com/) - Enterprise-grade custody with HSM-backed private key storage and governance workflows (e.g., used by Nomura (via Komainu), Uphold).
 - [Copper](https://copper.co/) - Custody and off-exchange settlement (ClearLoop), focused on institutional flexibility and DeFi access (e.g., used by Bitfinex).
 
@@ -216,18 +216,18 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 ## Market Insights
 ### Research & Reports
 - [EBA and ESMA analyse recent developments in crypto-assets](https://www.esma.europa.eu/press-news/esma-news/eba-and-esma-analyse-recent-developments-crypto-assets) - The European Banking Authority (EBA) and the European Securities and Markets Authority (ESMA) published a Joint Report on recent developments in crypto-assets, analysing decentralised finance (DeFi) and crypto lending, borrowing and staking.
-- [BCG: Approaching the Tokenization Tipping Point](https://media-publications.bcg.com/Tokenized-Assets.pdf) - This report, by Ripple and Boston Consulting Group, lays out the state of tokenization today, where it's heading in the next five to eight years, and why now is the moment to act—before the pace is set entirely by early movers, many of whom are already shaping the market. 
+- [BCG: Approaching the Tokenization Tipping Point](https://media-publications.bcg.com/Tokenized-Assets.pdf) - A market outlook on tokenization trends and potential adoption pathways over the medium term.
 - [Deutsche Bank and Baker McKenzie: Tokenization of Financial Markets: Mapping the Plausible Future through Scenario Analysis](https://www.bakermckenzie.com/-/media/files/insight/publications/2025/04/baker-mckenzie-x-deutsche-bank-whitepaper.pdf) - The report, developed by Baker McKenzie and Deutsche Bank Singapore, explores the potential of tokenization to transform financial markets. Using scenario analysis, it identifies the key drivers and suggests timed interventions.
 - [2025 – the year of payment stablecoins](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/Advisory/us-advisory-deloitte-2025-the-year-of-payment-stablecoins.pdf) - The report published by Deloitte in March 2025, payment stablecoins (PSCs) are currently being pursued with increasing interest by traditional financial institutions and integrated into digital financial infrastructure.
 - [Hong Kong Monetary Authority: Distributed Ledger Technology in the Financial Sector: A Study on the Opportunities and Challenges](https://www.hkma.gov.hk/media/eng/doc/key-functions/banking-stability/DLT_Research_Paper.pdf) - This paper aims to provide a comprehensive overview of the role of DLT in the financial sector, including its potential use cases, benefits, and challenges. 
 - [Citi: Digital Dollars - Banks and Public Sector Drive Blockchain Adoption](https://www.citigroup.com/rcs/citigpa/storage/public/GPS_Report_Blockchain_Digital_Dollar.pdf) - This report focuses on two key areas: enabling new financial instruments – such as stablecoins – and modernizing legacy systems.
-- [CFA: An Investment Perspective on Tokenization](https://rpc.cfainstitute.org/research/reports/2025/investment-perspective-tokenization) - An extensive report on tokenization by the CFA Institute reveals what astute players already sense: we're not just evolving systems – we're redesigning the DNA of finance.
+- [CFA: An Investment Perspective on Tokenization](https://rpc.cfainstitute.org/research/reports/2025/investment-perspective-tokenization) - A CFA Institute research series on tokenization from an investment and market-structure perspective.
   - [Part 1](https://rpc.cfainstitute.org/sites/default/files/docs/research-reports/tokenization_part-i_online-1.pdf) - Part I of the research series is a primer on tokenization in which we look at the technical process — what tokenization is, how it works, its value proposition, and current limitations.
   - Part 2 (Still to be released) - Part II of the research, in a forthcoming report, will present an analysis of the policy implications related to the digitalization of finance in general and tokenization in particular.
 - [Association for Financial Markets in Europe (AFME)](https://www.afme.eu/) - The Association for Financial Markets in Europe (AFME) is an industry advocacy organization that represents wholesale market participants in Europe, including the European Union and the United Kingdom.
   - [AFME: DLT-Based Capital Market Report - Size and Growth of the Global DLT Wholesale Market](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME%20DLT-Based%20Capital%20Market%20Report%202024.pdf) - This report provides a comprehensive overview of the primary DLT-based fixed income market, secondary market activity and valuations, repo transactions, and the growth of the tokenized fund industry alongside other tokenized assets.
   - [AFME: Scaling DLT-based Capital Markets - A Policy Roadmap for the EU](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME_DLT_SSA_Bonds_Policymaker_EU_05.pdf) - This Policy Roadmap sets out an 8-point plan focusing on specific policy and regulatory changes that are necessary to enable that development and growth of DLT-based capital markets.
-  - [AFME: Scaling DLT-Based SSA and Government Bond Markets - A Roadmap Strategy for European Issuers](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME_DLT_SSA_Bonds_Issuers_08%20(1)-1.pdf) - While DLT is being adopted in different parts of capital markets, this roadmap focuses on adoption of DLT in markets for bonds issued by European sovereigns, supranational institutions and public-sector agencies.
+  - [AFME: Scaling DLT-Based SSA and Government Bond Markets - A Roadmap Strategy for European Issuers](https://www.afme.eu/Portals/0/DispatchFeaturedImages/AFME_DLT_SSA_Bonds_Issuers_08%20%281%29-1.pdf) - While DLT is being adopted in different parts of capital markets, this roadmap focuses on adoption of DLT in markets for bonds issued by European sovereigns, supranational institutions and public-sector agencies.
   - [Ma, Shufan and Steininger, Bertram I. and Yang, Zan: Digital Bonds: The Role of Costs and Document Information on Trading Volume](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5438974) - Using a dataset of 7,719 transactions in digital treasury products backed by U.S. government bonds, the authors explore how fees, frictions, and documentation influence trading behavior on-chain. (June 2025)
   
 
@@ -236,7 +236,7 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 
 ### Data & Analytics Platforms
 - [Particula Reports](https://particula.io/category/ratings/) - High quality reports and ratings for individual projects.
-- [rwa.xyz](https://app.rwa.xyz/) - Rwa.xyz aggregates and standardizes first-party data to provide an accurate and intuitive market intelligence experience for investors, protocols, regulators, and service providers. We are a New York City-based company.
+- [rwa.xyz](https://app.rwa.xyz/) - A data platform that aggregates tokenized asset market data across protocols and issuers.
 - [Cambridge Digital Money Dashboard](https://ccaf.io/cdmd/) - The CDMD is envisaged to be a one-stop platform that brings together relevant digital asset adoption and risk indicators, allowing for multi-stakeholder uses and comparison. It aims to offer policymakers, financial authorities, academics, industry and the general public access to reliable information and analytical tools for thorough and insightful decision making.
 
 ## Regulation
