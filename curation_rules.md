@@ -44,6 +44,13 @@ A source is a strong fit if it is at least one of the following:
 - strategically important for market structure
 - useful as a durable reference for practitioners
 
+
+## Discovery checklist (to reduce misses)
+Before finalizing updates, explicitly check recent publications from core institutional sources:
+- BIS
+- ECB
+- IMF eLibrary
+
 ## Editorial principle
 This is a curated list, not an exhaustive database.
 Favor signal over volume.
