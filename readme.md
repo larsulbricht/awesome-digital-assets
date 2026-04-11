@@ -114,6 +114,7 @@ Disclaimer: The resources linked here do not constitute financial advice and are
     - [Trigger Solution by German Bundesbank](https://www.bundesbank.de/en/tasks/payment-systems/trigger-solution/conducted-trials-and-experiments-with-the-trigger-solution-918546) - Overview of all trials conducted with the trigger solution by German Bundesbank.
     - [TIPS Hash-Link by Banca d'Italia](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews231213_annex3.en.pdf) - Description of the TIPS Hash-Link solution tested during the ECB trials by Banca d'Italia.
     - [Full DLT interoperability solution by Banque de France](https://www.banque-france.fr/en/financial-stability/financial-stability-mandate/supporting-digital-transformation-financial-sector/wholesale-mnbc) - Overview Page of different materials on Wholesale CBDC initiatives by the Banque de France.
+    - [MONEI — ECB Digital Euro Pilot Participant](https://monei.com/) - Licensed European Payment Institution (Banco de España #6911) participating in the ECB Digital Euro pilot. Building merchant-side infrastructure for retail CBDC acceptance across Spain.
 
 
 #### Retail CBDCs
@@ -135,6 +136,7 @@ Disclaimer: The resources linked here do not constitute financial advice and are
 - [Circle Payments Network Whitepaper](https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/PDFs/Whitepapers/CPN_Whitepaper.pdf) - Circle Payments Network brings financial institutions together in a compliant, seamless, and programmable framework.
 - [Ubyx: Stablecoin Ubiquity](https://www.ubyx.xyz/) - Ubyx proposes the idea of a clearing system that allows stablecoins from many issuers to be deposited and multiple currencies into existing bank and fintech accounts with the goal to meet the test for singleness of money.
   - <b>(NEW)</b> You can actually contribute to the Ubyx Rulebook here: [Ubyx-Rulebook](https://github.com/deedubuk/Ubyx-Rulebook)
+- [EURM — Euro Stablecoin (Banco de España Financial Sandbox)](https://labs.monei.com/) - Euro-backed stablecoin by MONEI that completed Phase I in the Banco de España Regulatory Sandbox. Designed for programmable euro payments bridging traditional payment rails with blockchain settlement.
 
 ## Decentralized Finance (DeFi)
 - [BIS Paper: Cryptocurrencies and decentralised finance](https://www.bis.org/publ/bppdf/bispap156.htm) - A framework for prudential regulation that can mitigate risks while fostering innovation in the rapidly evolving crypto ecosystem.
