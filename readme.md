@@ -311,6 +311,7 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches an SPL mint or program ID and alerts on Telegram on new transactions, no external database.
 
 <br>
 
