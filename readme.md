@@ -237,6 +237,7 @@ The New Technologies for Wholesale settlement Contact Group (NTW-CG) provides ex
 ### Data & Analytics Platforms
 - [Particula Reports](https://particula.io/category/ratings/) - High quality reports and ratings for individual projects.
 - [rwa.xyz](https://app.rwa.xyz/) - A data platform that aggregates tokenized asset market data across protocols and issuers.
+- [RWA Space](https://rwaspace.app/) - A public research terminal and catalog linking tokenized real-world asset issuances to underlying assets, observed markets, source documents, and price methodology.
 - [Cambridge Digital Money Dashboard](https://ccaf.io/cdmd/) - The CDMD is envisaged to be a one-stop platform that brings together relevant digital asset adoption and risk indicators, allowing for multi-stakeholder uses and comparison. It aims to offer policymakers, financial authorities, academics, industry and the general public access to reliable information and analytical tools for thorough and insightful decision making.
 
 ## Regulation
